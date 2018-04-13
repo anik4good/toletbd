@@ -18,6 +18,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 
 Installation
-Copy the toletbd file into htcdocs if you are using localhost.If you using live server paste it on the public html folder.
+Download and extract the toletbd file you will see three files.Extract only the toletbd.zip file then you will get all the files of toletbd then copy the toletbd file into htcdocs if you are using localhost.If you using live server paste it on the public html folder.
 Then create a database called toletbd and import the toletbd3.sql file
 go to toletbd/public/admin for log in    admin log in:   username:  admin@admin.com   password: test123
